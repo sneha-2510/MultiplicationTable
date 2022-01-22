@@ -1,0 +1,1 @@
+## This is a java program to write multiplication table of any integer.
